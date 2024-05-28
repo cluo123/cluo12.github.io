@@ -8,7 +8,6 @@ This site template is designed to be fast and functional, even for users with li
 
 This site was inspired by <a href="https://kevinhayeswilson.com/">Kevin H. Wilson</a> and this <a href="http://bettermotherfuckingwebsite.com/"> (mildly) NSFW website</a>.  
 
-
 ## Considerations
 Links to large files (images or pdf) or to external pages are clearly indicated, to prevent surprise downloads.
 
